@@ -1,0 +1,10 @@
+.git
+.github
+tests
+scripts
+pcp-gg-common
+**/__pycache__
+.venv
+.pytest_cache
+.ruff_cache
+*.md

@@ -1,0 +1,6 @@
+# What CI and a contributor install to lint and run the tests: no torch, no model.
+fastapi==0.165.0
+numpy==2.5.5
+httpx==0.28.1
+pytest==9.2.0
+ruff==0.17.6
