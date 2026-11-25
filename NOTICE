@@ -1,0 +1,11 @@
+voyage-nano-embeddings
+Copyright 2026 Kaperkunde
+
+This repository holds only the server code, under the Apache License 2.0
+(see LICENSE). The container image it builds also contains:
+
+- MongoDB/voyage-4-nano, Copyright (c) 2026 MongoDB, Inc., under the Apache
+  License 2.0. Its LICENSE.txt and NOTICE.txt are kept in the image, in
+  /opt/model, as the license asks.
+- PyTorch, Transformers, FastAPI, Uvicorn, NumPy and their dependencies,
+  each under its own license (BSD, Apache 2.0, MIT and similar).
